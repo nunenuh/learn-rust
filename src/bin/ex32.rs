@@ -22,6 +22,3 @@ fn main() {
     println!("Home IP: {:?}", home.address);
     println!("Loopback IP: {:?}", loopback.address);
 }
-
-
-
